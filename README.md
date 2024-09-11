@@ -33,13 +33,13 @@ The Crypto Tracker App is a modern and user-friendly application designed to tra
    ```bash
    git clone https://github.com/yourusername/crypto-tracker-app.git
    cd crypto-tracker-app
-2.**Install dependencies**:
+  2.**Install dependencies**:
     
       npm i
-3.**Set up environment variables**:
+  3.**Set up environment variables**:
 
     VITE_NEWS_API_KEY=your_news_api_key
-4.**Run the application**:
+  4.**Run the application**:
 
     Run the Application
 
